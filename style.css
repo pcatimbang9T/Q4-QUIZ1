@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: #27548A;
+  color: #DDA853;
+  font-family: Gill sans-serif;
+  text-align: center;
+}
+
+.container{
+  background-color: #F5EEDC;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 20px; 
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
